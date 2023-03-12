@@ -1,5 +1,5 @@
 
-<p>triggering on git commit </p>
+<p>triggering on git commit changes</p>
 
 
 
